@@ -1,6 +1,6 @@
-# BBall PBk
+# PLAYZ
 
-Pages publiques de l'app BBall PBk, publiées avec GitHub Pages :
+Pages publiques de l'app PLAYZ (anciennement BBall PBk), publiées avec GitHub Pages :
 
 - Politique de confidentialité / Privacy policy : https://benjai1080.github.io/BBallPBk/privacy.html
 - Soutien / Support : https://benjai1080.github.io/BBallPBk/
